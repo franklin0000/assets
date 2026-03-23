@@ -1,0 +1,11 @@
+{
+  "name": "RedFlag Token",
+  "website": "https://redflag-source.onrender.com",
+  "description": "Native utility token of RedFlag App — a dating safety platform.",
+  "symbol": "RFLAG",
+  "decimals": 18,
+  "type": "ERC20",
+  "explorer": "https://polygonscan.com/token/0x06436bf6E71964A99bD4078043aa4cDfA0eadEe6",
+  "status": "active",
+  "tags": ["utility-token"]
+}
