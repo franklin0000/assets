@@ -1,0 +1,15 @@
+{
+  "name": "Wrapped RedFlag",
+  "symbol": "wRF",
+  "type": "ERC20",
+  "decimals": 6,
+  "description": "Wrapped RedFlag (wRF) is the ERC-20 representation of RF, the native coin of redflag.web3 — a post-quantum Layer-1 blockchain using ML-DSA-65 signatures and Bullshark DAG BFT consensus. Max supply: 2,100,000,000.",
+  "website": "https://redflagweb3-node1.onrender.com",
+  "explorer": "https://etherscan.io/token/0xf99129BEc6c189942A135f0Ee0FB0C87091CE51a",
+  "status": "active",
+  "id": "0xf99129BEc6c189942A135f0Ee0FB0C87091CE51a",
+  "links": [
+    {"name": "twitter",  "url": "https://x.com/franff546758"},
+    {"name": "telegram", "url": "https://t.me/redflag21blockchain"}
+  ]
+}
